@@ -9,15 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-husni-9b0a041ba) 
 
 # 💻 Tech Stack:
+
+# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itshusni29&show_icons=true&locale=en&layout=compact" alt="itshusni29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itshusni29&show_icons=true&locale=en" alt="itshusni29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itshusni29&" alt="itshusni29" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itshusni29&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itshusni29&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itshusni29&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itshusni29&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
